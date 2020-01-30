@@ -1,5 +1,3 @@
-console.log(fragmentElement, configuration);
-
 var chart = bb.generate({
 	data: {
 		x: "x",
