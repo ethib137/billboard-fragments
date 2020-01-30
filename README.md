@@ -4,7 +4,13 @@ A set of chart fragments for Liferay 7.2 SP1+ based on [billboard.js](https://na
 
 ## Usage
 
-![availableHotKeys](/images/billboard-fragments.png)
+After deploying billboard fragments the charts can be found on any content page under Section Builder > Billboard Fragments. 
+
+![billboard-fragments](/images/billboard-fragments.png)
+
+The data can be modified through the fragments configuration. It includes default data that can be used to understand the basic format of the data that is required. If you run into an issue reset the configuration and try again.
+
+![data-configuration](/images/configuration.png)
 
 ## How to Build and Deploy to Liferay
 
