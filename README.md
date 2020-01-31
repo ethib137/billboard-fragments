@@ -12,6 +12,16 @@ The data can be modified through the fragments configuration. It includes defaul
 
 ![data-configuration](/images/configuration.png)
 
+### Custom Colors
+
+The colors used in the charts can be customized by adding the following css:
+
+```
+.bb-color-pattern {
+  background-image: url("#00c73c;#fa7171;#2ad0ff;#7294ce;#e3e448;#cc7e6e;#fb6ccf;#c98dff;#4aea99;#bbbbbb;");
+}
+```
+
 ## How to Build and Deploy to Liferay
 
 ### Build it
