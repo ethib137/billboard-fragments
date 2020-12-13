@@ -1,6 +1,6 @@
 # Billboard Fragment Collection Contributor
 
-A set of chart fragments for Liferay 7.2 SP1+ based on [billboard.js](https://naver.github.io/billboard.js/).
+A set of chart fragments for Liferay 7.3+ based on [billboard.js](https://naver.github.io/billboard.js/).
 
 ## Usage
 
